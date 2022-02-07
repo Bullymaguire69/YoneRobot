@@ -93,7 +93,7 @@ I have lots of handy features such as:
 ‣ Approvals and much more.
 
 So what are you waiting for?
-Add me in your groups and give me full rights to make me function well.
+Add me in your groups and give me full rights to make me function well [🔥](https://telegra.ph/file/4025a278efac4506771bb.jpg)
 """
 
 
@@ -101,7 +101,7 @@ Add me in your groups and give me full rights to make me function well.
 
 def start(update: Update, context: CallbackContext):
     args = context.args
-    PHOTO = "https://telegra.ph/file/b749b0e80e82291e85e10.jpg"
+    PHOTO = "https://telegra.ph/file/4025a278efac4506771bb.jpg"
     bot = context.bot
     message = update.effective_message
     chat = update.effective_chat
